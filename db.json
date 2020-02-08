@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": "123",
+      "name": "pepsi"
+    },
+    {
+      "id": "c75d3a0c-6cfe-44e4-a098-1df5ad1281ee",
+      "name": "fanta"
+    },
+    {
+      "id": "1fea9078-84bb-4570-86b3-7bdc6bad4420",
+      "name": "fanta"
+    }
+  ]
+}
